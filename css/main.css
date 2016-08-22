@@ -1,0 +1,39 @@
+.uno{
+	width:100px;
+	height:100px;
+	background-color:#C574A9;
+	margin: 10px;
+	border:1px solid black;
+	
+}
+.contenedor {
+	width:330px;
+	height:110px;
+	background-color:#C574A9;
+	margin: 10px;
+	padding:15px;
+	border: 1px solid black;
+}
+
+.interno{
+	width:100px;
+	height:100px;
+	background-color:purple;
+	display:inline-block;
+	border:1px solid black;
+	margin-right:5px;
+
+	
+}
+.bro{
+	width:100px;
+	height:100px;
+	background-color:#C574A9;
+	margin:10px;
+	display:inline-block;	
+	border:1px solid black;
+}
+
+
+
+
